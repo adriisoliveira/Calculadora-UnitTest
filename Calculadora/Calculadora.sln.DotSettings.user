@@ -1,0 +1,34 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=027cb144_002Db915_002D4938_002D8c2f_002D39eb5adaa15d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a03043c_002Df730_002D4493_002Db04e_002D3372a4051320/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Multiplicacao" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3A59D0A-8DF7-43B8-8C07-4536B54C31EA::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.TestCases.TestCases&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c919901_002Dbd84_002D414d_002D94d6_002De2df6df7b22b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Subtracao" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3A59D0A-8DF7-43B8-8C07-4536B54C31EA::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.TestCases.TestCases.Subtracao&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3A59D0A-8DF7-43B8-8C07-4536B54C31EA::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.TestCases.TestCases.Divisao&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3A59D0A-8DF7-43B8-8C07-4536B54C31EA::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.TestCases.TestCases.Multiplicacao&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4de65a74_002D808b_002D4828_002Dacec_002Da0d87200bd0c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculadoraUnitTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3D6106DE-2D16-4BA4-8D39-89A7A2473AAB::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.CalculadoraUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ded9691_002Ddcdc_002D48cf_002Daf2b_002D1dacbdd48e88/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculadoraUnitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3D6106DE-2D16-4BA4-8D39-89A7A2473AAB::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.CalculadoraUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3425534_002De42f_002D483b_002Dad5a_002D4312f000bfb8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Soma_WhenValoresInteiros_ShouldSomar" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3A59D0A-8DF7-43B8-8C07-4536B54C31EA::.NETFramework,Version=v4.0::Calculadora.Unit.Tests.TestCases.TestCases.Soma_WhenValoresInteiros_ShouldSomar&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4b85081_002Ddda2_002D4a1b_002Dbaa8_002Da6327337e0ca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
